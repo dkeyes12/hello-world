@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\docs",
+    "\\src",
+    "\\src\\app",
+    "\\src\\assets",
+    "\\src\\deploy",
+    "\\src\\engine",
+    "\\src\\environments",
+    "\\src\\mini-testdrive"
+  ],
+  "PreviewInSolutionExplorer": false
+}
