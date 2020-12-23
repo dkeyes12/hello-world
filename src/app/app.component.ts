@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Retirement In A Chart',
+  title = 'Retirement In A Chart'
   saleData = [
     { name: "Mobiles", value: 105000 },
     { name: "Laptop", value: 55000 },
