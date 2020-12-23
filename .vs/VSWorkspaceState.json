@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
+    "\\.github\\workflows",
     "\\docs",
-    "\\src",
     "\\src\\app",
     "\\src\\assets",
     "\\src\\deploy",
